@@ -1,12 +1,12 @@
 {
-  "name": "test-ai-classifier",
-  "version": "4.0.2",
+  "name": "visium-ai-classifier",
+  "version": "0.1.0",
   "description": "Appium semantic label plugin",
-  "homepage": "https://github.com/testdotai/appium-classifier-plugin#readme",
-  "bugs": "https://github.com/testdotai/appium-classifier-plugin/issues",
+  "homepage": "https://github.com/SahinEgilmez/visium-classifier-plugin#readme",
+  "bugs": "https://github.com/SahinEgilmez/visium-classifier-plugin/issues",
   "main": "./build-js/index.js",
   "bin": {
-    "test-ai-classifier": "./build-js/lib/rpc.js"
+    "visium-ai-classifier": "./build-js/lib/rpc.js"
   },
   "gypfile": true,
   "scripts": {
@@ -45,8 +45,8 @@
     "ai",
     "ml"
   ],
-  "repository": "github:testdotai/appium-classifier-plugin",
-  "author": "Jonathan Lipps <jlipps@gmail.com>",
+  "repository": "github:SahinEgilmez/visium-classifier-plugin",
+  "author": "Sahin Egilmez <segilmez@outlook.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "@grpc/proto-loader": "0.x",

@@ -1,6 +1,6 @@
 {
   "targets": [{
-    "target_name": "test-ai-classifier",
+    "target_name": "visium-ai-classifier",
     "cflags!": [ "-fno-exceptions" ],
     "cflags_cc!": [ "-fno-exceptions" ],
     "sources": [
